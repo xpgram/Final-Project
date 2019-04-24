@@ -2,10 +2,11 @@
 
 How to run the solution for each drill:
 
-1.) **How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?**
+1.) **How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?**  
 exec dbo.uspGetCopies 'The Lost Tribe', 'Sharpstown';
 
 2.) **How many copies of the book titled "The Lost Tribe" are owned by each library branch?**
+
 exec dbo.uspGetCopies 'The Lost Tribe';
 
 3.) **Retrieve the names of all borrowers who do not have any books checked out.**
