@@ -1,5 +1,9 @@
 # SQL-Final-Project
 
+A simple database which models what a library might use to keep track of their books, users, check-outs, etc. Also includes some procedures which solve problems given on assignment---model operations a library might want to perform on their database.
+
+
+
 How to run the solution for each drill:
 
 1.) **How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?**  
