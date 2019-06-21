@@ -1,6 +1,6 @@
 # SQL-Final-Project
 
-A simple database which models what a library might use to keep track of their books, users, check-outs, etc. Also includes some procedures which solve problems given on assignment---model operations a library might want to perform on their database.
+A simple database which models what a library might use to keep track of their books, users, check-outs, etc. Also includes some procedures which solve problems given on assignment--models operations a library might want to perform on their database.
 
 
 
